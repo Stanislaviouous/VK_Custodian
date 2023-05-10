@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_app">Иконка приложения</string>
+    <string name="app_slogan">Файловый менеджер с душой</string>
+    <string name="home_page">Домашняя страница</string>
+    <string name="phone_memory_page">Память устройства</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="action_name">По названию</string>
+    <string name="action_upsize">По возрастанию размера</string>
+    <string name="action_downsize">По убыванию размера</string>
+    <string name="action_downdate">По датте</string>
+    <string name="action_type">По типу</string>
+
+</resources>

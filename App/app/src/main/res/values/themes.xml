@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Custodian" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pith_white</item>
+        <item name="colorPrimaryVariant">@color/pith_white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/true_black</item>
+        <item name="colorSecondaryVariant">@color/true_black</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="MyTheme" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="MyViewTheme" parent="@android:style/TextAppearance">
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="MyRow" parent="@android:style/TextAppearance">
+        <item name="android:background">@drawable/ic_back_black</item>
+    </style>
+</resources>
